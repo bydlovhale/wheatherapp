@@ -1,14 +1,14 @@
 # wheatherapp
 
 
-A command-line weather app using the OpenWeather API.
+A CL weather app using the OpenWeather API.
 
-## Features
+ utilities
 - Get live weather by city name
 - Shows temperature, humidity, and condition
 
-## Tech
-- Python (`requests`, JSON parsing)
+## 
+- used Python (`requests`, JSON parsing)
 
 ## Run
 ```bash
